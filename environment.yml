@@ -1,0 +1,15 @@
+name: btebind
+channels:
+  - conda-forge
+  - anaconda
+  - jmcbroome
+  - etetoolkit
+dependencies:
+  - numpy
+  - seaborn
+  - matplotlib
+  - pandas
+  - scipy
+  - bte
+  - ete3
+  - toytree
