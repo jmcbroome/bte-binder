@@ -14,3 +14,7 @@ dependencies:
   - bte
   - ete3
   - toytree
+  - boost-cpp=1.73.0
+  - tbb-devel=2019.0
+  - cython
+  - protobuf=3.19
