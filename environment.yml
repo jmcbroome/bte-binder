@@ -5,6 +5,7 @@ channels:
   - jmcbroome
   - etetoolkit
 dependencies:
+  - python=3.9
   - numpy
   - seaborn
   - matplotlib
