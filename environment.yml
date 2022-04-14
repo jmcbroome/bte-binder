@@ -10,6 +10,7 @@ dependencies:
   - matplotlib
   - pandas
   - scipy
-  - bte
+  - bte=0.6.0
   - ete3
   - toytree
+  - jupyterlab
